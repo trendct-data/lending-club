@@ -1,0 +1,9 @@
+{
+    "path" : "~/Documents/Github/data/2016/05/lending-club",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
